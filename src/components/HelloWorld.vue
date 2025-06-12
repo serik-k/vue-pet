@@ -19,7 +19,7 @@ const count = ref(0);
 
   <p>
     Check out
-    <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank">create-vue</a>,
+    < href="https://vuejs.org/guide/quick-start.html#local" target="_blank">create-vue</>,
     theofficial Vue + Vite starter
   </p>
 
